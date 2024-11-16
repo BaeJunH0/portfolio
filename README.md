@@ -9,6 +9,9 @@
    > 2.1 [**카카오톡 선물하기 카피 프로젝트**](#-카카오톡-선물하기-카피-프로젝트)
    >
    > 2.2 [**리그오브레전드 5 vs 5 팀 설정 프로젝트**](#-리그오브레전드-5-vs-5-팀-설정-프로젝트)
+   
+3. [**알고리즘 풀이**](#알고리즘-풀이)
+  > 3.1 [**Algorithm Practice**](#-algorithm-practice)
   
 # 팀 프로젝트
 ### 🎈 [Inplace](https://github.com/kakao-tech-campus-2nd-step3/Team7_BE)
@@ -70,4 +73,9 @@
 
   > **프로젝트 주요 기능**
 - **주요 개발 내용**
-  > 개발해라 
+  > 개발해라
+
+# 알고리즘 풀이
+### ⌨ [Algorithm Practice](https://github.com/BaeJunH0/Algorithm_practice)
+> 2024-09-01 ~
+- **프로젝트 소개** : 코딩 테스트 대비 및 알고리즘 공부를 위한 문제 풀이 리포지토리
