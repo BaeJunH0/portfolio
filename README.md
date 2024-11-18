@@ -11,7 +11,7 @@
    > 2.2 [**리그오브레전드 5 vs 5 팀 설정 프로젝트**](#-리그오브레전드-5-vs-5-팀-설정-프로젝트)
    
 3. [**알고리즘 풀이**](#알고리즘-풀이)
-  > 3.1 [**Algorithm Practice**](#-algorithm-practice)
+   > 3.1 [**Algorithm Practice**](#-algorithm-practice)
   
 # 팀 프로젝트
 ### 🎈 [Inplace](https://github.com/kakao-tech-campus-2nd-step3/Team7_BE)
